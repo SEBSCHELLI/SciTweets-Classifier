@@ -2,3 +2,72 @@ emoji==1.7.0
 nltk==3.6.5
 pandas==1.1.5
 transformers==4.17.0
+
+# Deep Learning
+tensorflow==2.16.1
+torch==2.2.1
+torchvision==0.17.1
+torchaudio==2.2.1
+jax[cuda12_pip]==0.4.25
+flax==0.8.2
+
+# NLP
+transformers==4.39.3
+sentence-transformers==2.6.1
+spacy==3.7.4
+spacy-transformers==1.3.5
+nltk==3.8.1
+gensim==4.3.2
+tokenizers==0.15.2
+
+# Data Science
+numpy==1.26.4
+scipy==1.12.0
+pandas==2.2.1
+scikit-learn==1.4.1
+xgboost==2.0.3
+lightgbm==4.3.0
+statsmodels==0.14.1
+
+# Visualization
+matplotlib==3.8.3
+seaborn==0.13.2
+plotly==5.19.0
+bokeh==3.4.0
+altair==5.2.0
+
+# Big Data / Distributed
+dask[complete]==2024.2.1
+ray[default]==2.9.3
+pyspark==3.5.1
+
+# Computer Vision
+opencv-python==4.9.0.80
+opencv-contrib-python==4.9.0.80
+scikit-image==0.22.0
+albumentations==1.4.4
+
+# Audio / Video
+librosa==0.10.1
+moviepy==1.0.3
+soundfile==0.12.1
+
+# Web + APIs
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+django==5.0.3
+flask==3.0.2
+
+# Databases
+sqlalchemy==2.0.28
+psycopg2-binary==2.9.9
+pymongo==4.6.2
+redis==5.0.3
+
+# Misc heavy deps
+pyarrow==15.0.1
+polars==0.20.16
+networkx==3.2.1
+sympy==1.12
+numba==0.59.0
+llvmlite==0.42.0
